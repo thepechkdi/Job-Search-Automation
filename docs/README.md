@@ -6,9 +6,9 @@ It provides a complete understanding of the system, from the concept to the arch
 Contents:
 - **overview.md** A high-level introduction to the project:
 
-What the system does
+What the system does?
 
-Why it was created
+Why it was created?
 
 - **architecture.md** Detailed technical explanation of the system architecture:
 
