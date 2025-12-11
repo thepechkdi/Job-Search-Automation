@@ -6,42 +6,42 @@ It provides a complete understanding of the system, from the concept to the arch
 Contents:
 - **overview.md** A high-level introduction to the project:
 
-What the system does?
+1/-What the system does?
 
-Why it was created?
+2/-Why it was created?
 
 - **architecture.md** Detailed technical explanation of the system architecture:
 
-Components involved
+1/-Components involved
 
-OpenAI 
+2/-OpenAI 
 
-Google Sheets data flows
+3/-Google Sheets data flows
 
-Caching / hashing logic
+4/-Caching / hashing logic
 
-Resume and job-matching pipeline
+5/-Resume and job-matching pipeline
 
-Cover-letter generation pipeline
+6/-Cover-letter generation pipeline
 
 - **diagram.md** Visual diagrams showing the workflow:
 
-System architecture diagram
+1/-System architecture diagram
 
-Data flow diagram
+2/-Data flow diagram
 
-Automation pipeline
+3/-Automation pipeline
 
 - **features.md** Documentation of all system features:
 
-Smart resume parsing
+1/-Smart resume parsing
 
-Job data extraction
+2/-Job data extraction
 
-Skill-matching engine
+3/-Skill-matching engine
 
-Cover-letter generator
+4/-Cover-letter generator
 
-Duplicate job detection
+5/-Duplicate job detection
 
-Google Sheets integration
+6/-Google Sheets integration
